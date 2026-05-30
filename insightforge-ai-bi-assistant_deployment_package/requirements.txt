@@ -11,3 +11,4 @@ matplotlib
 scikit-learn
 pypdf
 python-docx
+protobuf==3.20.3
