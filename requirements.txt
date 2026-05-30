@@ -1,0 +1,14 @@
+streamlit
+openai
+langchain
+langchain-openai
+langchain-community
+langchain-text-splitters
+chromadb
+pandas
+numpy
+matplotlib
+scikit-learn
+pypdf
+python-docx
+protobuf==3.20.3
